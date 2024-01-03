@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+    
+}
+
+.box{
+    border: 5px solid;
+    width: 150px;
+    height: 150px;
+    border-radius: 5%;
+    font-size: 20px;
+    padding: 2%;
+    margin: 20px;
+}
+#box1{
+    background-color: yellow;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-left: auto;
+
+
+
+}
+#box2{
+    background-color: green;
+    margin-left: 60px;
+    margin-right:right;
+    
+}

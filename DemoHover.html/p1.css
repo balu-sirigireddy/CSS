@@ -1,0 +1,52 @@
+*{
+    box-sizing:border-box;
+}
+
+.img{
+    background-color: aqua;
+    float: left;
+    width: 20%;
+    
+}
+ #pic{
+    width: 200px;
+    height: 150px;
+}
+.back{
+    
+    background-color: black;
+    width: 300px;
+    height: 150px;
+}
+
+#h1{
+    float: left;
+    
+    width: 150px;
+    height: 150px;
+
+    background-color: aqua;
+    border-radius: 100%;
+
+}
+#h2 {
+    float: right;
+    
+    
+    width: 150px;
+    height: 150px;
+
+    background-color: aqua;
+    border-radius: 100%;
+
+}
+ #h1:hover{
+    opacity: 0.6;
+    background-color: yellow;
+    border-radius: 100%;
+}
+ #h2:hover{
+    opacity:0.6;
+    background-color: orange;
+    border-radius: 100%;
+}

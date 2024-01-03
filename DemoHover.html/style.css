@@ -1,0 +1,46 @@
+body{
+    background-color: aliceblue;
+}
+img{
+    width: 350px;
+    height: 300px;
+    border: 10px solid purple;
+    border-radius: 10px;
+    
+    
+}
+img:hover{
+    opacity: 0.6 ;
+}
+h1{
+    
+color: chartreuse;
+
+}
+h1:hover{
+    opacity: 0.7;
+}
+a:hover{
+    opacity: 0.6;
+}
+.back{
+    background-color: black;
+    
+    width: 400px;
+    height: 100px;
+    
+}
+.front1{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 100px;
+}
+.front1:hover{
+    border-radius: 100px;
+    opacity: 0.6;
+    background-color: aqua;
+    
+}
+
+
