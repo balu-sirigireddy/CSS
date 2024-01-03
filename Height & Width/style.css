@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+.box{
+    background-color: aqua;
+    padding: 40px;
+    border: 2px solid;
+    width: 50%;
+    height: auto;
+    
+    border-radius: 10px;
+    margin: 50px;
+}
+    
+
+h1{
+    margin-left: 100px;
+}

@@ -1,0 +1,45 @@
+*
+{
+    color: blue;
+}
+
+div{
+    background-color: rgb(175, 240, 218);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+body{
+    border-radius: 10px;
+    border: 2px solid;
+    width: 250px
+    
+    
+
+}
+h1{
+    font-weight: bold;
+    font-style: normal;
+    margin-left: 20px;
+}
+
+
+p{
+    background-color: aquamarine;
+    padding: 10px;
+    border: 2px dotted;
+    margin : 20px;
+    width: 150px;
+    margin-left: 40px;
+    border-radius: 10px;
+    
+    
+}
+p:hover{
+    opacity: 0.7;
+    border: 2px dotted rgb(248, 6, 175);
+    color: rgb(242, 37, 177);
+   
+
+}
